@@ -2,7 +2,7 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "Vibe Coding App PRD Generator for Solo Buildrs",
+  title: "PRD Generator for Solo Vibe Builders",
   description: "Generate AI-ready PRDs from a clean, guided template."
 };
 
